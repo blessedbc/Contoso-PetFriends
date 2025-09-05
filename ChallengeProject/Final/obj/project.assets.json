@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ikenna\\Desktop\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+      "projectUniqueName": "C:\\Users\\Ikenna\\OneDrive\\Desktop\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
       "projectName": "Final",
-      "projectPath": "C:\\Users\\Ikenna\\Desktop\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+      "projectPath": "C:\\Users\\Ikenna\\OneDrive\\Desktop\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\Ikenna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ikenna\\Desktop\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\obj\\",
+      "outputPath": "C:\\Users\\Ikenna\\OneDrive\\Desktop\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ikenna\\AppData\\Roaming\\NuGet\\NuGet.Config"

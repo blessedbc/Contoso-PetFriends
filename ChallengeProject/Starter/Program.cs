@@ -9,3 +9,4 @@ string[] pettingZoo =
     "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
 };
 // RandomizeAnimals();
+// AssignGroup();

@@ -9,6 +9,21 @@ string[] pettingZoo =
     "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
 };
 // RandomizeAnimals();
-// AssignGroup();
+// string[,] group = AssignGroup();
 Console.WriteLine("School A");
 // PrintGroup(group);
+
+
+void RandomizeAnimals() 
+{
+    Random random = new Random();
+
+    for (int i = 0; i < pettingZoo.Length; i++) 
+    {
+        int r = random.Next(i, pettingZoo.Length);
+
+        string temp = pettingZoo[r];
+        pettingZoo[r] = pettingZoo[i];
+        pettingZoo[i] = temp;
+    }
+}
